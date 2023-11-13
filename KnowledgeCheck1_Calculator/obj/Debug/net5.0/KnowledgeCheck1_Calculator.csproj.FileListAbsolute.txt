@@ -1,0 +1,15 @@
+/Users/brendanstivers/Documents/GitHub/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brendanstivers/Documents/GitHub/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.AssemblyInfoInputs.cache
+/Users/brendanstivers/Documents/GitHub/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.AssemblyInfo.cs
+/Users/brendanstivers/Documents/GitHub/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.csproj.CoreCompileInputs.cache
+/Users/brendanstivers/Documents/GitHub/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator
+/Users/brendanstivers/Documents/GitHub/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.deps.json
+/Users/brendanstivers/Documents/GitHub/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.runtimeconfig.json
+/Users/brendanstivers/Documents/GitHub/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.runtimeconfig.dev.json
+/Users/brendanstivers/Documents/GitHub/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.dll
+/Users/brendanstivers/Documents/GitHub/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.pdb
+/Users/brendanstivers/Documents/GitHub/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.dll
+/Users/brendanstivers/Documents/GitHub/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/refint/KnowledgeCheck1_Calculator.dll
+/Users/brendanstivers/Documents/GitHub/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.pdb
+/Users/brendanstivers/Documents/GitHub/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.genruntimeconfig.cache
+/Users/brendanstivers/Documents/GitHub/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/ref/KnowledgeCheck1_Calculator.dll
